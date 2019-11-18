@@ -19,9 +19,9 @@ body, html {
 }
 
 .parallax .parallax2 .parallax3 .parallax4 {
-  /* Full height 
+  /* Full height
   height: 100%;*/
-
+  min-height: 100%;
   /* Create the parallax scrolling effect */
   position: relative;
   background-attachment: fixed;
