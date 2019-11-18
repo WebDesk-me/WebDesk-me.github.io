@@ -2,7 +2,23 @@ body, html {
   height: 100%;
 }
 
-.parallax .parallax2 {
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.parallax .parallax2 .parallax3 {
   /* Full height */
   height: 100%;
 
@@ -21,9 +37,18 @@ body, html {
 
 .parallax2 {
   /* The image used */
+  background-image: url('app.png');
+}
+
+.parallax3 {
+  /* The image used */
   background-image: url('cast.png');
 }
 
+.parallax4 {
+  /* The image used */
+  background-image: url('browse.png');
+}
 
 /* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
 @media only screen and (max-device-width: 1366px) {
