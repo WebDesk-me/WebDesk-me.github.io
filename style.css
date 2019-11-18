@@ -43,7 +43,7 @@ body, html {
   color: #000;
 }
 
-.caption button.border {
+.caption span.border {
   background-color: #111;
   color: #fff;
   padding: 18px;
