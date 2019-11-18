@@ -11,9 +11,9 @@ body, html {
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
-  background-position: left top;
+  background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  /*background-size: cover;*/
 }
 
 /* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
