@@ -9,7 +9,7 @@ body, html {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
-  background-position: center;
+  background-position: left top;
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -21,12 +21,12 @@ body, html {
 
 .bgimg-2 {
   background-image: url("app.png");
-  min-height: 400px;
+  min-height: 100%;
 }
 
 .bgimg-3 {
   background-image: url("cast.png");
-  min-height: 400px;
+  min-height: 100%;
 }
 
 .caption {
