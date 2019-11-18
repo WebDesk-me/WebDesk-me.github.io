@@ -13,7 +13,7 @@ body, html {
   background-attachment: fixed;
   background-position: left top;
   background-repeat: no-repeat;
-  /*background-size: cover;*/
+  background-size: contain;
 }
 
 /* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
