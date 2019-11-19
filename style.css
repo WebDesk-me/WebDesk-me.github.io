@@ -51,11 +51,18 @@ body, html {
   letter-spacing: 10px;
 }
 
-h3 {
+.m {
   letter-spacing: 5px;
   text-transform: uppercase;
   font: 20px "Lato", sans-serif;
   color: #111;
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #fff;
 }
 
 /* Turn off parallax scrolling for tablets and phones */
